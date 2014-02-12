@@ -11,6 +11,11 @@
 @import Social;
 @import Accounts;
 
+@interface TweetService ()
+
+@end
+
+
 @implementation TweetService
 - (BOOL)userHasAccessToTwitter
 {
