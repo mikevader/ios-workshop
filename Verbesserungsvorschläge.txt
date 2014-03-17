@@ -1,0 +1,14 @@
+Verbesserungsvorschläge:
+
+- iOS UI Sektion mit Life-Coding verbinden wo spezielle Controller wie Tab Bar oder Navigation Controller gezeigt werden sowie die Segues und Cell Identifier.
+
+- Umbau von Twitter zu Beispielen von MegaCRM
+
+- Korrekturen in den Übungen.
+
+- Besseres SW Design in Beispielcode.
+
+
+
+Erweiterungen:
+- Modul über Software Design und Architektur.
