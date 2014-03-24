@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E2820C6-6A38-4CC2-B6DA-967550A2430F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Opener</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5FEE579A-4978-4E0D-A2C7-39CB2FEF919B</key>
+		<string>https://bitbucket.org/mikevader/ios-workshop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tutorials/Tutorial-8_AndereApps/Opener/Opener.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5FEE579A-4978-4E0D-A2C7-39CB2FEF919B</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/mikevader/ios-workshop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5FEE579A-4978-4E0D-A2C7-39CB2FEF919B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FEE579A-4978-4E0D-A2C7-39CB2FEF919B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Workshop-FHNW</string>
+		</dict>
+	</array>
+</dict>
+</plist>

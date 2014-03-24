@@ -63,6 +63,12 @@
     static NSString *CellIdentifier = @"Cell";
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier forIndexPath:indexPath];
     
+    cell.textLabel;
+    cell.imageView;
+    cell.detailTextLabel;
+
+    
+    
     // Configure the cell...
     
     return cell;
